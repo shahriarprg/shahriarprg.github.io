@@ -2,6 +2,7 @@
 
 ### 🚀 About Me
 Highly motivated **System Engineer** with 4.8 years of experience specializing in **high-availability VAS platforms** and **critical database management** (MySQL, MSSQL). Proven ability to enhance system efficiency and ensure seamless integration of business solutions (IVR, SMS). Seeking to leverage expertise in Linux and complex troubleshooting to optimize core business service delivery.
+![My Profile Picture](./images/profile.png)
 
 ---
 
