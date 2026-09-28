@@ -1,10 +1,17 @@
 # Hi there, I'm MD Shahriar Alam 👋
 
 ### 🚀 About Me
-Highly motivated **System Engineer** with 4.8 years of experience specializing in **high-availability VAS platforms** and **critical database management** (MySQL, MSSQL). Proven ability to enhance system efficiency and ensure seamless integration of business solutions (IVR, SMS). Seeking to leverage expertise in Linux and complex troubleshooting to optimize core business service delivery.
+<table>
+  <tr>
+    <td width="60%">
+           <h2><p>Highly motivated <b>System Engineer</b> with 4.8 years of experience specializing in <b>high-availability VAS platforms</b> and <b>critical database management</b> (MySQL, MSSQL). Proven ability to enhance system efficiency and ensure seamless integration of business solutions (IVR, SMS). Seeking to leverage expertise in Linux and complex troubleshooting to optimize core business service delivery.</p>  </h2>
+    </td>
+    <td width="40%" align="center">
+      <img width="350" alt="unnamed" src="https://github.com/user-attachments/assets/8a21da1b-e103-4193-8c1d-9dd33118616a" />
+    </td>
+  </tr>
+</table>
 
-
-<img width="1044" height="1008" alt="unnamed" src="https://github.com/user-attachments/assets/8a21da1b-e103-4193-8c1d-9dd33118616a" />
 
 ---
 
